@@ -8,8 +8,7 @@
 
  **Student at Vellore Institute of Technology, Chennai**  
  Passionate about **Systems Design,Software tech frameworks,Artificial Intelligence and Algorithms**  
- I love **building innovative projects** and solving real-world problems!  
- Skilled in **Full Stack Development, AI, and Blockchain**  
+ I love **building innovative projects** and solving real-world problems!    
  Always exploring new **tech stacks & open-source contributions**
 
 ---
@@ -86,16 +85,15 @@
 
 ---
 
+<div align="center">
+  <p align="center"><strong>If you want to compare ambitions, mine is bigger.</strong></p>
+</div>
+
 <h2 align="center"> My Contributions</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://res.cloudinary.com/dukjtmdtn/image/upload/v1760707650/github-user-contribution_icagtm.svg" />
 </div>
 
-
-###  Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=A%20river%20cuts%20through%20rock%20not%20because%20of%20its%20power,%20but%20because%20of%20its%20persistence.&type=horizontal&theme=gruvbox" />
-</div>
 
 <div align="center">
   

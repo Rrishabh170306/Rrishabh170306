@@ -26,17 +26,7 @@ I'm drawn to problems at the edge of what current tools can do cleanly. Right no
 
 ---
 
-## Projects
-
-> A few things I've built. More on my pinned repos.
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project Name](#)** | One sharp sentence describing what it solves and for whom. | Python · FastAPI · PostgreSQL |
-| **[Project Name](#)** | One sharp sentence describing what it solves and for whom. | React · Node.js · MongoDB |
-| **[Project Name](#)** | One sharp sentence describing what it solves and for whom. | PyTorch · Django · Redis |
-
-*Replace these rows with your actual projects. Each entry should say what it does, not just what it is.*
+#Projects
 
 ---
 

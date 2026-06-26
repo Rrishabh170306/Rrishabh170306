@@ -1,102 +1,130 @@
-## Hi there 👋
-
-<h1 align="center"> My name is  <span style="color:#f39c12;">Rrishabh Sankaran.</span></h1>
-<h3 align="center"> Full-Stack Software Developer | AI Developer </h3>
-
----
-##  About Me
-
- **Student at Vellore Institute of Technology, Chennai**  
- Passionate about **Systems Design,Software tech frameworks,Artificial Intelligence and Algorithms**  
- I love **building innovative projects** and solving real-world problems!    
- Always exploring new **tech stacks & open-source contributions**
-
----
-
-##  Looking to Collaborate On
--  **AI and Software Development Projects**  
--  **Open Source Contributions**  
--  Anything fun and creative in the tech world!  
- Reach me at **@Rrishabh1703**
-
----
-
-<h2 align="center">Reach Out to Me</h2>
-<div align="center"> 
-  <a href="mailto:rrishabh.sankaran17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
-
----
-
-## Socials
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrishabh-sankaran-6b162232a/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rrishabhsankaran17) 
-
-</div>
-
----
-
-<h2 align="center">Technology Stack</h2>
-
 <div align="center">
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,java,powershell" />
+# Rrishabh Sankaran
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+**Building at the intersection of AI, systems, and the web.**
 
-### Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-
-### Database & Cloud  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,vercel,redis,neo4j" />
-
-### Machine Learning  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-### Tools  
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma,githubactions" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rrishabh-sankaran)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rrishabh.sankaran17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Rrishabh170306)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
 </div>
+
+---
+
+## About
+
+I'm a software engineer in training at **VIT Chennai**, focused on building systems that are fast, purposeful, and AI-native. My work spans full-stack development, machine learning pipelines, and backend architecture — I care about how things are built, not just that they work.
+
+I'm drawn to problems at the edge of what current tools can do cleanly. Right now that means exploring **LLM applications, graph databases, and scalable backend design**.
+
+- 🏗️ Currently building: *[your most interesting active project here]*
+- 📖 Currently studying: Systems design, transformer architecture internals, distributed systems
+- 🎯 Next goal: Ship something open-source that other engineers find genuinely useful
+- 💬 Ask me about: Python backends, AI integrations, PostgreSQL + Neo4j data modelling
+
+---
+
+## Projects
+
+> A few things I've built. More on my pinned repos.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project Name](#)** | One sharp sentence describing what it solves and for whom. | Python · FastAPI · PostgreSQL |
+| **[Project Name](#)** | One sharp sentence describing what it solves and for whom. | React · Node.js · MongoDB |
+| **[Project Name](#)** | One sharp sentence describing what it solves and for whom. | PyTorch · Django · Redis |
+
+*Replace these rows with your actual projects. Each entry should say what it does, not just what it is.*
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Data & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## GitHub Stats
+
 <div align="center">
 
-<a href="https://github-readme-stats.vercel.app/api?username=Rrishabh170306&theme=gruvbox&show_icons=true" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rrishabh170306&theme=gruvbox&show_icons=true" />
-</a>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rrishabh170306&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rrishabh170306&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" />
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Rrishabh170306&show_icons=true&locale=en&layout=compact&theme=gruvbox" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rrishabh170306&show_icons=true&locale=en&layout=compact&theme=gruvbox" />
-</a>
+</div>
 
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=Rrishabh170306&theme=gruvbox" target="_blank">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rrishabh170306&theme=gruvbox" />
-</a>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rrishabh170306&theme=dark&hide_border=true" />
 
 </div>
 
 ---
 
+## Contributions
+
 <div align="center">
-  <p align="center"><strong>If you want to compare ambitions, mine is bigger.</strong></p>
+
+<img alt="contribution graph" src="https://res.cloudinary.com/dukjtmdtn/image/upload/v1760707650/github-user-contribution_icagtm.svg" />
+
 </div>
 
-<h2 align="center"> My Contributions</h2>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://res.cloudinary.com/dukjtmdtn/image/upload/v1760707650/github-user-contribution_icagtm.svg" />
-</div>
+---
 
+## Currently Exploring
+
+- **LLM application architecture** — RAG pipelines, agent design, evaluation frameworks
+- **Graph-based data modelling** — when relational databases reach their limits
+- **Systems fundamentals** — working through OS internals and distributed systems concepts
+- **Open source** — looking for a project where I can make a real contribution, not just a token one
+
+---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70" />
-  
+
+*Open to internships, collaborations, and interesting problems.*
+*Reach me at [rrishabh.sankaran17@gmail.com](mailto:rrishabh.sankaran17@gmail.com)*
+
 </div>
